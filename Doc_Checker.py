@@ -12,11 +12,11 @@ import jellyfish
 ##########################################################################################
 
 #name of the json file
-json_file = "test.json"
+json_file = "Database.json"
 #place number of the certificate in the json file
 row_nb = 1
 #name of the txt file
-txt_file = "test2"
+txt_file = "Doc2"
 
 #------------------------------------------------------------------------------------------
 #Read the JSON file
