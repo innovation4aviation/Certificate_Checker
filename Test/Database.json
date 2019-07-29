@@ -1,0 +1,2 @@
+[{"_id":{"$oid":"iiaieziubefz"},"stateofregistrycode":"USA","stateofoperatorcode":"USA","Owner":"None","Registration":"N2631A","DateOfRegistry":"1995-10-10","Serial":"22-903","makemodel":"PIPER","YearOfBuild":"1960"},
+{"_id":{"$oid":"iiaieziubefz"},"stateofregistrycode":"USA","stateofoperatorcode":"USA","Owner":"None","Registration":"N12345","DateOfRegistry":"1996-01-29","Serial":"6969","makemodel":"CESSNA","YearOfBuild":"1960"}]
